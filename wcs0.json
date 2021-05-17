@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "url": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3",
+    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/1.mp3",
     "title": "Random Sound 0 #1"
   },
   {
     "id": 2,
-    "url": "https://filesamples.com/samples/audio/mp3/sample4.mp3",
+    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/1.mp3",
     "title": "Random Sound 0 #2"
   },
   {
     "id": 3,
-    "url": "https://filesamples.com/samples/audio/mp3/sample2.mp3",
+    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/1.mp3",
     "title": "Random Sound 0 #3"
   }
 ]
