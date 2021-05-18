@@ -2,13 +2,11 @@
   {
     "id": 1,
     "title": "WCS0",
-    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/wcs0.json",
-    "img": "https://raw.githubusercontent.com/MBDOFF/wcs/main/bkg.jpg"
+    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/wcs0.json"
   },
   {
     "id": 2,
     "title": "WCS1",
-    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/wcs1.json",
-    "img": ""
+    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/wcs1.json"
   }
 ]
