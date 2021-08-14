@@ -3,15 +3,5 @@
     "id": 1,
     "title": "Ayan",
     "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/wcs0.json"
-  }, 
-  {
-    "id": 2,
-    "title": "Floppy",
-    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/wcs1.json"
-  }, 
-  {
-    "id": 3,
-    "title": "Vlad",
-    "url": "https://raw.githubusercontent.com/MBDOFF/wcs/main/wcs2.json"
   }
 ]
